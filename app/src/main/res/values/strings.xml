@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Formulario film</string>
+    <string name="title">Formulario Entretenimiento</string>
+    <string name="titulo">Indica el título</string>
+    <string name="year">Indica el Año</string>
+    <string name="gendre">Indíca el género</string>
+    <string name="tipo">Seleccione uno</string>
+    <string name="save">GUARDAR</string>
+</resources>
